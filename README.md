@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Asimcoded/advice-generator-app)
-- Live Site URL: [Add live site URL here](https://asimcoded.github.io/advice-generator-app/)
+- Solution URL: [Link](https://github.com/Asimcoded/advice-generator-app)
+- Live Site URL: [Link](https://asimcoded.github.io/advice-generator-app/)
 
 ### Built with
 
@@ -43,7 +43,7 @@ Users should be able to:
 ## Author
 
 - Author  - [Asim das]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Asimcoded)
+- Frontend Mentor - [@Asimcoded](https://www.frontendmentor.io/profile/Asimcoded)
 - Linkedin - [Asim das](https://www.linkedin.com/in/dasasim/)
 - X - [@asimdas0711](https://www.x.com/asimdas0711)
 - GitHub - [asimcoded](https://github.com/Asimcoded)
